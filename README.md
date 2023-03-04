@@ -11,7 +11,7 @@
 
 ---
 
-|[@DanielSan](https://github.com/kaiserkey)|
+|[@ByDanielSan](https://github.com/kaiserkey)|
 | - |
 
 ---
