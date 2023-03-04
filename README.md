@@ -2,6 +2,7 @@
 ---
 
 # Listado de Algoritmos
+![Algoritmos](algoritmos.jpg)
 
 ---
 
