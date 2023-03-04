@@ -1,5 +1,16 @@
+
 ---
 
-#Listado de Algoritmos
+# Listado de Algoritmos
 
-#### - [Binary Search](https://github.com/kaiserkey/Binary_Search_Algorithm)
+---
+
+- **[Binary Search](https://github.com/kaiserkey/Binary_Search_Algorithm)**
+- 
+
+---
+
+|[@DanielSan](https://github.com/kaiserkey)|
+| - |
+
+---
